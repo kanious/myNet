@@ -1,0 +1,10 @@
+E:\GitProject\myNet_Server\CClient\obj\Debug\CClient.csprojAssemblyReference.cache
+E:\GitProject\myNet_Server\CClient\obj\Debug\CClient.csproj.CoreCompileInputs.cache
+E:\GitProject\myNet_Server\CClient\bin\Debug\CClient.exe.config
+E:\GitProject\myNet_Server\CClient\bin\Debug\CClient.exe
+E:\GitProject\myNet_Server\CClient\bin\Debug\CClient.pdb
+E:\GitProject\myNet_Server\CClient\bin\Debug\myNet.dll
+E:\GitProject\myNet_Server\CClient\bin\Debug\myNet.pdb
+E:\GitProject\myNet_Server\CClient\obj\Debug\CClient.csproj.CopyComplete
+E:\GitProject\myNet_Server\CClient\obj\Debug\CClient.exe
+E:\GitProject\myNet_Server\CClient\obj\Debug\CClient.pdb

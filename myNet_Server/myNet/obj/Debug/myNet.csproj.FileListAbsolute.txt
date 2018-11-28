@@ -1,0 +1,12 @@
+D:\☆ 개인Data\Study\MultiplayGame\myNet_Server\myNet\obj\Debug\myNet.csprojResolveAssemblyReference.cache
+D:\☆ 개인Data\Study\MultiplayGame\myNet_Server\myNet\obj\Debug\myNet.csproj.CoreCompileInputs.cache
+D:\☆ 개인Data\Study\MultiplayGame\myNet_Server\myNet\bin\Debug\myNet.dll
+D:\☆ 개인Data\Study\MultiplayGame\myNet_Server\myNet\bin\Debug\myNet.pdb
+D:\☆ 개인Data\Study\MultiplayGame\myNet_Server\myNet\obj\Debug\myNet.dll
+D:\☆ 개인Data\Study\MultiplayGame\myNet_Server\myNet\obj\Debug\myNet.pdb
+E:\GitProject\myNet_Server\myNet\obj\Debug\myNet.csprojAssemblyReference.cache
+E:\GitProject\myNet_Server\myNet\obj\Debug\myNet.csproj.CoreCompileInputs.cache
+E:\GitProject\myNet_Server\myNet\bin\Debug\myNet.dll
+E:\GitProject\myNet_Server\myNet\bin\Debug\myNet.pdb
+E:\GitProject\myNet_Server\myNet\obj\Debug\myNet.dll
+E:\GitProject\myNet_Server\myNet\obj\Debug\myNet.pdb

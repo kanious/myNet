@@ -1,0 +1,10 @@
+E:\GitProject\myNet_Server\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe.config
+E:\GitProject\myNet_Server\VirusWarGameServer\bin\Debug\VirusWarGameServer.exe
+E:\GitProject\myNet_Server\VirusWarGameServer\bin\Debug\VirusWarGameServer.pdb
+E:\GitProject\myNet_Server\VirusWarGameServer\bin\Debug\myNet.dll
+E:\GitProject\myNet_Server\VirusWarGameServer\bin\Debug\myNet.pdb
+E:\GitProject\myNet_Server\VirusWarGameServer\obj\Debug\VirusWarGameServer.csprojAssemblyReference.cache
+E:\GitProject\myNet_Server\VirusWarGameServer\obj\Debug\VirusWarGameServer.csproj.CoreCompileInputs.cache
+E:\GitProject\myNet_Server\VirusWarGameServer\obj\Debug\VirusWarGameServer.csproj.CopyComplete
+E:\GitProject\myNet_Server\VirusWarGameServer\obj\Debug\VirusWarGameServer.exe
+E:\GitProject\myNet_Server\VirusWarGameServer\obj\Debug\VirusWarGameServer.pdb

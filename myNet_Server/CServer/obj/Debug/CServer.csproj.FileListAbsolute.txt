@@ -1,0 +1,10 @@
+E:\GitProject\myNet_Server\CServer\obj\Debug\CServer.csprojAssemblyReference.cache
+E:\GitProject\myNet_Server\CServer\obj\Debug\CServer.csproj.CoreCompileInputs.cache
+E:\GitProject\myNet_Server\CServer\bin\Debug\CServer.exe.config
+E:\GitProject\myNet_Server\CServer\bin\Debug\CServer.exe
+E:\GitProject\myNet_Server\CServer\bin\Debug\CServer.pdb
+E:\GitProject\myNet_Server\CServer\bin\Debug\myNet.dll
+E:\GitProject\myNet_Server\CServer\bin\Debug\myNet.pdb
+E:\GitProject\myNet_Server\CServer\obj\Debug\CServer.csproj.CopyComplete
+E:\GitProject\myNet_Server\CServer\obj\Debug\CServer.exe
+E:\GitProject\myNet_Server\CServer\obj\Debug\CServer.pdb
